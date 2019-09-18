@@ -1,7 +1,7 @@
 
-x = input("enter: ")
+x = input("votre age: ")
 
-print("bonjour" + str(x))
+print("vous avez " + str(x) + " ans")
 print("bienvenu aux etudians 2019")
-
+input("appuyer pour quitter....")
 
